@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Review Organizer"
+  short_description: "Tag papers, build reading notes, and synthesize research gaps"
+  default_prompt: "Organize the papers in this folder using my tag system, generate structured reading notes, and summarize the main evidence, limitations, research gaps, and potential innovations."
